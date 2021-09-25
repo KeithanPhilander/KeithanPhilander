@@ -2,7 +2,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fmy-portfolio-d2863.web.app/)](https://my-portfolio-d2863.web.app/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fmy-portfolio-d2863.web.app/)](https://keithanphilander-e53b5c.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ThisIsKeithan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FThisIsKeithan&screen_name=ThisIsKeithan)
 
 <br>
@@ -53,6 +53,6 @@
 
 <img align="left" alt="Keithan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KeithanPhilander&show_icons=true&hide_border=true" />
 
-[website]: https://my-portfolio-d2863.web.app/
+[website]: https://keithanphilander-e53b5c.netlify.app/
 [twitter]: https://twitter.com/ThisIsKeithan
 [linkedin]: https://www.linkedin.com/in/keithan-philander-490406220/
